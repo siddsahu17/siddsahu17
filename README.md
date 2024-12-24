@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Projects related to my domain
 - 📫 How to reach me catchmesiddhant@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy dancing to White Girl Music
 
 <!---
 siddsahu17/siddsahu17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
