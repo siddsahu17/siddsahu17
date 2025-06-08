@@ -1,43 +1,59 @@
-# Hi there, I'm Siddhant 👋
+# 👋 Hey there, I'm Siddhant Kumar Sahu
 
-### 🚀 About Me
-:contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}  
-- :contentReference[oaicite:3]{index=3}  
-- :contentReference[oaicite:4]{index=4}  
-
-:contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}.
-
-### 💻 What I’m Working On
-- :contentReference[oaicite:7]{index=7}  
-- :contentReference[oaicite:8]{index=8} :contentReference[oaicite:9]{index=9}  
-- :contentReference[oaicite:10]{index=10}
-
-### 🛠️ Skills & Tools
-| 🪄 Frontend | ⚙️ Backend | 🧠 ML/DL | ⛓️ Tools |
-|------------|-----------|---------|----------|
-| :contentReference[oaicite:11]{index=11} | :contentReference[oaicite:12]{index=12} | TensorFlow, PyTorch | :contentReference[oaicite:13]{index=13} |
-
-### 📫 Connect With Me
-- :contentReference[oaicite:19]{index=19}  
-- :contentReference[oaicite:20]{index=20} :contentReference[oaicite:21]{index=21}  
-- **GitHub:** [@siddsahu17](https://github.com/siddsahu17)
-
-### 📈 GitHub Stats
-![siddsahu17's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddsahu17&show_icons=true&theme=radical)
+🎓 **Software Engineering Student**  
+🧠 **Machine Learning & Deep Learning Enthusiast**  
+📊 **Python + Jupyter Notebooks Practitioner**
 
 ---
 
-### 🤝 The Ask
-If you enjoy my projects or have ideas 🧠—collaborations, mentorship, or just a chat about Svelte, ML, or full-stack—feel free to reach out!
+## 📌 About Me
+
+- 🎓 Pursuing B.Tech in Software Engineering at **MIT Academy of Engineering, Pune**
+- 🐍 Passionate about **Python**, **Machine Learning and AI**, and **Data Science**
+- 🧠 Actively exploring **machine learning**, **deep learning**, and **time series forecasting**
+- 🧪 Regular contributor to open-source learning projects like **CampusX – 100 Days of Deep Learning**
+- 💡 Building tools and dashboards to visualize data with Python (Pandas, Plotly, Seaborn, Flask)
 
 ---
 
-**Thank you for visiting!**  
-Curious? Let’s connect and build something amazing together. 😊
+## 🛠️ Tech Stack
 
+| Language    | Libraries & Tools               | Platforms & IDEs         |
+|-------------|----------------------------------|---------------------------|
+| Python      | NumPy, Pandas, Matplotlib, Seaborn | Jupyter Notebook, VS Code |
+|             | Scikit-learn, TensorFlow, XGBoost | Colab, Flask, Streamlit   |
+|             | Plotly, Statsmodels (ARIMA etc.)  | Git, GitHub               |
 
-<!---
-siddsahu17/siddsahu17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📚 Featured Projects
+
+### 📈 ARIMA Model on Cryptocurrency Data  
+> Trained ARIMA model on historical crypto data, forecasted future trends using live API feeds  
+🛠️ **Tech:** Python, Pandas, Statsmodels, Matplotlib  
+📁 [View on GitHub](https://github.com/siddsahu17)
+
+---
+
+### 📊 Flask Dashboard for MongoDB Time Series  
+> Visual analytics dashboard powered by Flask + MongoDB + Plotly  
+💡 Dynamic charts, filters, real-time updates  
+📁 [View on GitHub](https://github.com/siddsahu17)
+
+---
+
+## 📈 GitHub Stats
+
+![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddsahu17&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: siddhant@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/siddsahu17)  
+- 🐙 [GitHub](https://github.com/siddsahu17)
+
+---
+
+> *“Learn, Build, Share — one project at a time.”*
