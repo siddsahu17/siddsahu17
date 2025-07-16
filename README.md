@@ -49,7 +49,7 @@
 
 ## 📫 Let's Connect!
 
-- 📧 Email: siddhant@gmail.com  
+- 📧 [Email](catchmesiddhant@gmail.com) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddsahu17)  
 - 🐙 [GitHub](https://github.com/siddsahu17)
 
