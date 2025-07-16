@@ -2,7 +2,6 @@
 
 🎓 **Software Engineering Student**  
 🧠 **Machine Learning & Deep Learning Enthusiast**  
-📊 **Python + Jupyter Notebooks Practitioner**
 
 ---
 
