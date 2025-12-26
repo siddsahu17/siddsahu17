@@ -15,6 +15,8 @@
   </em>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" />
+
 ---
 
 ## 🧩 Code, to me, looks like Tetris
@@ -38,6 +40,8 @@ Progress happens when the stack keeps moving.
   <em>Not productivity theatre — just consistent work.</em>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
 ---
 
 ## 🚧 What I’m building (selectively)
@@ -46,23 +50,13 @@ Progress happens when the stack keeps moving.
 Time-series driven exploration of cryptocurrency markets using statistical and ML models.  
 Focus on **patterns, trends, and forecasting**, not speculation.
 
-> **Tools:** Python, ARIMA, ML models, APIs, data visualization
-
----
-
 ### 🔹 WebGIS for Forest Rights (FRA Atlas)
-An AI-powered WebGIS platform for digitizing and analyzing Forest Rights Act claims.  
-Combines **satellite image segmentation** with **spatial databases** and an **LLM-powered guidance system**.
-
-> **Tools:** TensorFlow (U-Net), PostGIS, GeoServer, FastAPI, React, LangChain
-
----
+AI-powered WebGIS platform combining satellite segmentation, spatial databases,  
+and an LLM-powered guidance system.
 
 ### 🔹 Braille ↔ Audio Transcription System
-An assistive AI system that converts Braille scripts into structured text and natural speech audio.  
-Designed with accessibility-first principles and supported by an **ongoing review paper (manuscript)**.
-
-> **Tools:** Python, NLP, Text-to-Speech, Assistive AI
+Assistive AI system converting Braille scripts into structured text and natural speech.  
+Backed by an ongoing **review paper (manuscript)**.
 
 ---
 
@@ -73,22 +67,7 @@ Designed with accessibility-first principles and supported by an **ongoing revie
   </em>
 </p>
 
----
-
-## 💓 Momentum (pulse view)
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=siddsahu17&theme=dark&hide_border=true&background=0D1117"
-    alt="GitHub streak stats"
-  />
-</p>
-
-<p align="center">
-  <em>
-    Momentum compounds faster than motivation.
-  </em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 ---
 
