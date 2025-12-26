@@ -79,7 +79,7 @@ Designed with accessibility-first principles and supported by an **ongoing revie
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=siddsahu17&theme=dark&hide_border=true&background=0D1117"
+    src="https://streak-stats.demolab.com?user=siddsahu17&theme=dark&hide_border=true&background=0D1117"
     alt="GitHub streak stats"
   />
 </p>
@@ -94,7 +94,6 @@ Designed with accessibility-first principles and supported by an **ongoing revie
 
 ## 📊 Signals, not trophies
 
-<!-- Stable mirror used to avoid GitHub API rate-limit errors -->
 <p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddsahu17&show_icons=true&hide_title=true&hide_border=true&theme=dark"
