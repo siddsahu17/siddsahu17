@@ -29,7 +29,7 @@ Progress happens when the stack keeps moving.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siddsahu17&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siddsahu17&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&custom_title=Commit%20Flow"
     alt="GitHub activity graph"
   />
 </p>
@@ -75,19 +75,18 @@ Designed with accessibility-first principles and supported by an **ongoing revie
 
 ---
 
-## 🐍 Motion over stagnation
+## 💓 Momentum (pulse view)
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    alt="Contribution snake animation"
+    src="https://github-readme-streak-stats.herokuapp.com?user=siddsahu17&theme=dark&hide_border=true&background=0D1117"
+    alt="GitHub streak stats"
   />
 </p>
 
 <p align="center">
   <em>
-    Old commits get consumed.<br/>
-    Only forward motion survives.
+    Momentum compounds faster than motivation.
   </em>
 </p>
 
