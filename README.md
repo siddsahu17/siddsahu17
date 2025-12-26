@@ -1,58 +1,75 @@
-# 👋 Hey there, I'm Siddhant Kumar Sahu
+<!-- ===================== Minimal Identity ===================== -->
+<h1 align="center">Siddhant Kumar Sahu</h1>
+<p align="center">
+  Software Engineering Student · Builder by Habit · Commits over Claims
+</p>
 
-🎓 **Software Engineering Student**  
-🧠 **Machine Learning & Deep Learning Enthusiast**  
-
----
-
-## 📌 About Me
-
-- 🎓 Pursuing B.Tech in Software Engineering at **MIT Academy of Engineering, Pune**
-- 🐍 Passionate about **Python**, **Machine Learning and AI**, and **Data Science**
-- 🧠 Actively exploring **machine learning**, **deep learning**, and **time series forecasting**
-- 🧪 Regular contributor to open-source learning projects like **CampusX – 100 Days of Deep Learning**
-- 💡 Building tools and dashboards to visualize data with Python (Pandas, Plotly, Seaborn, Flask)
+<p align="center">
+  <em>I don’t showcase projects here.<br/>
+  I let the commits stack themselves.</em>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ===================== Tetris Metaphor ===================== -->
+## 🧩 My GitHub is a game of Tetris
 
-| Language    | Libraries & Tools               | Platforms & IDEs         |
-|-------------|----------------------------------|---------------------------|
-| Python      | NumPy, Pandas, Matplotlib, Seaborn | Jupyter Notebook, VS Code |
-|             | Scikit-learn, TensorFlow, XGBoost | Colab, Flask, Streamlit   |
-|             | Plotly, Statsmodels (ARIMA etc.)  | Git, GitHub               |
-
----
-
-## 📚 Featured Projects
-
-### 📈 ARIMA Model on Cryptocurrency Data  
-> Trained ARIMA model on historical crypto data, forecasted future trends using live API feeds  
-🛠️ **Tech:** Python, Pandas, Statsmodels, Matplotlib  
-📁 [View on GitHub](https://github.com/siddsahu17)
+Every green square is a block.  
+Some fit cleanly. Some force refactors.  
+The goal is the same: **keep building without letting the stack collapse.**
 
 ---
 
-### 📊 Flask Dashboard for MongoDB Time Series  
-> Visual analytics dashboard powered by Flask + MongoDB + Plotly  
-💡 Dynamic charts, filters, real-time updates  
-📁 [View on GitHub](https://github.com/siddsahu17)
+<!-- ===================== Animated Commit Graph ===================== -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siddsahu17&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c"
+    alt="Siddhant's GitHub activity graph"
+  />
+</p>
+
+<p align="center">
+  <em>↑ Think of this as blocks falling into place, not just lines on a chart.</em>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+<!-- ===================== Contribution Snake (Animated) ===================== -->
+## 🐍 When the blocks move
 
-![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddsahu17&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+</p>
+
+<p align="center">
+  <em>The snake eats stale commits. Only movement survives.</em>
+</p>
 
 ---
 
-## 📫 Let's Connect!
+<!-- ===================== Philosophy ===================== -->
+## 🎮 How I play
 
-- 📧 [Email](catchmesiddhant@gmail.com) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/siddsahu17)  
-- 🐙 [GitHub](https://github.com/siddsahu17)
+- Small commits > heroic rewrites  
+- Broken builds are part of the level  
+- Green streaks are discipline, not ego  
+- If it’s quiet here, I’m probably learning something hard
 
 ---
 
-> *“Learn, Build, Share — one project at a time.”*
+<!-- ===================== Stats (Subtle) ===================== -->
+## 📊 Scoreboard (not the goal, just feedback)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddsahu17&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff9c" />
+</p>
+
+---
+
+<!-- ===================== Closing ===================== -->
+<p align="center">
+  <em>
+    This profile is a timeline, not a portfolio.<br/>
+    Watch the blocks long enough and the story appears.
+  </em>
+</p>
