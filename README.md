@@ -122,7 +122,7 @@ Backed by an ongoing **review paper (manuscript)**.
 ## 📫 Reach me
 
 - 📧 **Email:** catchmesiddhant@gmail.com  
-- 💼 **LinkedIn:** linkedin.com/in/siddsahu17/ 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/siddsahu17/ 
 - 🧠 **GitHub:** https://github.com/siddsahu17  
 
 I’m open to:
