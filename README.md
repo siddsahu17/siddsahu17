@@ -46,19 +46,17 @@ Progress happens when the stack keeps moving.
 
 ## 🚧 What I’m building (selectively)
 
-### 🔹 Cryptocurrency Forecasting & Market Analysis
-Time-series driven exploration of cryptocurrency markets using statistical and ML models.  
+### 🔹 Cryptocurrency Forecasting & Market Analysis  
+Time-series driven exploration of crypto markets using statistical and ML models.  
 Focus on **patterns, trends, and forecasting**, not speculation.
 
-### 🔹 WebGIS for Forest Rights (FRA Atlas)
+### 🔹 WebGIS for Forest Rights (FRA Atlas)  
 AI-powered WebGIS platform combining satellite segmentation, spatial databases,  
-and an LLM-powered guidance system.
+and an LLM-based citizen guidance system.
 
-### 🔹 Braille ↔ Audio Transcription System
+### 🔹 Braille ↔ Audio Transcription System  
 Assistive AI system converting Braille scripts into structured text and natural speech.  
 Backed by an ongoing **review paper (manuscript)**.
-
----
 
 <p align="center">
   <em>
@@ -68,6 +66,38 @@ Backed by an ongoing **review paper (manuscript)**.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
+---
+
+## 🧰 Technical Skillset
+
+**Programming Languages**  
+- Python  
+- C / C++  
+- JavaScript  
+- SQL  
+
+**Machine Learning & AI**  
+- TensorFlow, PyTorch  
+- Scikit-learn, ARIMA  
+- NLP, Time-Series Analysis  
+- Retrieval-Augmented Generation (RAG)
+
+**Web & Backend**  
+- FastAPI, Flask  
+- React  
+- REST APIs  
+
+**Databases & GIS**  
+- PostgreSQL, PostGIS  
+- MongoDB  
+- GeoServer, QGIS  
+
+**Tools & Workflow**  
+- Git & GitHub  
+- Docker (basics)  
+- Linux  
+- VS Code, Jupyter Notebook  
 
 ---
 
@@ -89,12 +119,25 @@ Backed by an ongoing **review paper (manuscript)**.
 
 ---
 
+## 📫 Reach me
+
+- 📧 **Email:** catchmesiddhant@gmail.com  
+- 💼 **LinkedIn:** kedin.com/in/siddsahu17/ 
+- 🧠 **GitHub:** https://github.com/siddsahu17  
+
+I’m open to:
+- research discussions  
+- collaborative builds  
+- internships and early-career opportunities  
+
+---
+
 ## 🎯 How I work
 
 - Small, frequent commits over heroic rewrites  
-- Systems that intersect **software + people** interest me most  
+- I enjoy systems where **software meets people**  
 - I learn by building, documenting, and revisiting assumptions  
-- If activity slows down, I’m likely studying something difficult
+- If activity slows down, I’m probably studying something difficult
 
 ---
 
