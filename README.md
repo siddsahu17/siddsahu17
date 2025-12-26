@@ -1,5 +1,9 @@
-<!-- ===================== Identity ===================== -->
+<!-- ========================================================= -->
+<!--                    GITHUB PROFILE README                  -->
+<!-- ========================================================= -->
+
 <h1 align="center">Siddhant Kumar Sahu</h1>
+
 <p align="center">
   Software Engineering Student · Systems Builder · Learning in Public
 </p>
@@ -13,7 +17,6 @@
 
 ---
 
-<!-- ===================== Tetris Metaphor ===================== -->
 ## 🧩 Code, to me, looks like Tetris
 
 Every commit is a block.  
@@ -22,7 +25,8 @@ Progress happens when the stack keeps moving.
 
 ---
 
-<!-- ===================== Activity Graph ===================== -->
+## 📈 The blocks falling into place
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=siddsahu17&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c"
@@ -36,91 +40,87 @@ Progress happens when the stack keeps moving.
 
 ---
 
-<!-- ===================== Projects ===================== -->
-## 🚧 Things I’m building (and iterating on)
+## 🚧 What I’m building (selectively)
 
-### 🔹 Cryptocurrency Forecasting & Analysis
-Time-series driven exploration of crypto markets using statistical models and ML.  
-Focus on **trend detection, forecasting, and interpretability**, not hype.
+### 🔹 Cryptocurrency Forecasting & Market Analysis
+Time-series driven exploration of cryptocurrency markets using statistical and ML models.  
+Focus on **patterns, trends, and forecasting**, not speculation.
 
-> *Tools:* Python, ARIMA, ML models, APIs, data visualization
+> **Tools:** Python, ARIMA, ML models, APIs, data visualization
 
 ---
 
 ### 🔹 WebGIS for Forest Rights (FRA Atlas)
-An AI-powered WebGIS platform to digitize and analyze Forest Rights Act claims.  
-Combines **satellite segmentation** with **spatial databases** and an **LLM-powered guidance system**.
+An AI-powered WebGIS platform for digitizing and analyzing Forest Rights Act claims.  
+Combines **satellite image segmentation** with **spatial databases** and an **LLM-powered guidance system**.
 
-> *Tools:* TensorFlow (U-Net), PostGIS, GeoServer, FastAPI, React, LangChain
+> **Tools:** TensorFlow (U-Net), PostGIS, GeoServer, FastAPI, React, LangChain
 
 ---
 
 ### 🔹 Braille ↔ Audio Transcription System
-An assistive AI pipeline that converts Braille scripts into structured text and natural speech.  
-Built with accessibility first, backed by an **ongoing review paper (manuscript)**.
+An assistive AI system that converts Braille scripts into structured text and natural speech audio.  
+Designed with accessibility-first principles and supported by an **ongoing review paper (manuscript)**.
 
-> *Tools:* Python, NLP, Text-to-Speech, Assistive AI
+> **Tools:** Python, NLP, Text-to-Speech, Assistive AI
 
 ---
 
 <p align="center">
   <em>
-    I keep projects lean here.<br/>
-    Repos show the rest.
+    Projects stay concise here.<br/>
+    Repositories tell the deeper story.
   </em>
 </p>
 
 ---
 
-<!-- ===================== Snake Animation ===================== -->
 ## 🐍 Motion over stagnation
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    alt="Contribution animation"
+    alt="Contribution snake animation"
   />
 </p>
 
 <p align="center">
   <em>
     Old commits get consumed.<br/>
-    Only forward motion stays visible.
+    Only forward motion survives.
   </em>
 </p>
 
 ---
 
-<!-- ===================== Stats ===================== -->
 ## 📊 Signals, not trophies
 
+<!-- Stable mirror used to avoid GitHub API rate-limit errors -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=siddsahu17&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff9c"
-    alt="GitHub stats"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddsahu17&show_icons=true&hide_title=true&hide_border=true&theme=dark"
+    alt="GitHub statistics"
   />
 </p>
 
 <p align="center">
   <em>
-    Stats are feedback loops.<br/>
-    They help me course-correct.
+    Statistics are feedback loops,<br/>
+    not the finish line.
   </em>
 </p>
 
 ---
 
-<!-- ===================== Philosophy ===================== -->
 ## 🎯 How I work
 
-- I prefer **small, frequent commits** over perfect releases  
-- I enjoy projects where **software meets people** (GIS, accessibility, data)  
+- Small, frequent commits over heroic rewrites  
+- Systems that intersect **software + people** interest me most  
 - I learn by building, documenting, and revisiting assumptions  
-- If this graph goes quiet, I’m probably studying something difficult
+- If activity slows down, I’m likely studying something difficult
 
 ---
 
-<!-- ===================== Closing ===================== -->
 <p align="center">
   <em>
     This profile isn’t a highlight reel.<br/>
